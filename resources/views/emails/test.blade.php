@@ -1,0 +1,1 @@
+hola te han elimindado del grupo usuario: {{ $user->name }}
